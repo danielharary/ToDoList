@@ -1,0 +1,15 @@
+.user-card {
+    border: 1px solid black;
+    margin: 20px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 200px;
+    background-color: rgb(210, 253, 206);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.user-emoji {
+    font-size: 100px;
+    text-align: center;
+}
