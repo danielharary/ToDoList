@@ -1,11 +1,9 @@
-
-import List from "./list";
-import { data } from "./data";
+import { Test } from './list'
 
 export default function App() {
-  return (
-    <div className="App">
-      <List users={data} />
-    </div>
-  );
+    return (
+        <div className="App">
+            <Test />
+        </div>
+    );
 }
